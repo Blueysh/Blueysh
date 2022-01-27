@@ -1,16 +1,13 @@
-### Hi there 👋
+# `✌` Hi, I'm Blueysh!
 
-<!--
-**Blueysh/Blueysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an American Minecraft Java plugin developer / modder.
 
-Here are some ideas to get you started:
+## `📝` About Me
+- I'm the director of the [Everworld Team](https://github.com/EverworldTeam), a modding team of talented people from around the world.
+- I'm currently working on the Builderverse server, [check it out](https://twitter.com/thebuilderverse)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `🌎` Places you'll find me
+- Discord: Blueysh#0594
+- Twitter: [@blueyshrenders](https://twitter.com/blueyshrenders)
+- IGN: Blueysh
+- Email: jan.santi@icloud.com
