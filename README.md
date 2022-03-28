@@ -1,6 +1,6 @@
 # `✌` Hi, I'm Blueysh!
 
-I'm an American Minecraft Java plugin developer / modder. Site: [blueysh.github.io](https://blueysh.github.io)
+I'm an American Minecraft Java plugin developer / modder. Links: [ayo.so/blueysh](https://ayo.so/blueysh)
 
 ## `📝` About Me
 - I develop Minecraft server plugins and occasionally some mods. You can find most of them here or at the [Everworld Team page][everworld].
