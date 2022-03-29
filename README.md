@@ -1,23 +1,18 @@
-# `✌` Hi, I'm Blueysh!
+### ✌ Hi, I'm Blueysh!
 
-I'm an American Minecraft Java plugin developer / modder. Links: [ayo.so/blueysh](https://ayo.so/blueysh)
+- ⚡ I am a coder, designer, and I'm interested in music and gaming.
+- 🔭 I’m currently working on Minecraft mods and plugins at [Everworld Team](https://github.com/EverworldTeam).
+- 📫 How to reach me: [ayo.so/blueysh](https://ayo.so/blueysh)
 
-## `📝` About Me
-- I develop Minecraft server plugins and occasionally some mods. You can find most of them here or at the [Everworld Team page][everworld].
-- I'm the director of the [Everworld Team][everworld], a modding team comprised of talented people from around the world.
-- I'm currently working on the Builderverse server, [check it out][bv]!
-
-## `🌎` Places you'll find me
-- Discord: Blueysh#0594
-- Twitter: [@blueyshrenders][twitter]
-- IGN: Blueysh
-- Email: jan.santi@icloud.com
-
-## `📊` GitHub Stats
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Blueysh&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
-</p>
-
-[everworld]: https://github.com/EverworldTeam
-[bv]: https://twitter.com/thebuilderverse
-[twitter]: https://twitter.com/blueyshrenders
+<!--
+**Blueysh/Blueysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
