@@ -1,7 +1,7 @@
 ### ✌ Hi, I'm Blueysh!
 
 - ⚡ I am a coder, designer, and I'm interested in music and gaming.
-- 🔭 I’m currently working on Minecraft mods and plugins at [Everworld Team](https://github.com/EverworldTeam).
+- 🔭 I’m currently working on Minecraft mods and plugins at [Pixeled](https://github.com/pixeledgg).
 - 📫 How to reach me: [ayo.so/blueysh](https://ayo.so/blueysh)
 
 <!--
