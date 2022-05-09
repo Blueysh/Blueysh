@@ -1,9 +1,15 @@
+<div align="center">
+
 ### ✌ Hi, I'm Blueysh!
 
-- ⚡ I am a coder, designer, and I'm interested in music and gaming.
-- 🔭 I’m currently working on Minecraft mods and plugins at [Pixeled](https://github.com/pixeledgg).
-- 📫 How to reach me: [ayo.so/blueysh](https://ayo.so/blueysh)
-
+⚡ I am a coder, designer, and I'm interested in music and gaming.
+  
+🔭 I’m currently working on Minecraft mods and plugins at [Pixeled](https://github.com/pixeledgg).
+  
+📫 How to reach me: [ayo.so/blueysh](https://ayo.so/blueysh)
+  
+### Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Blueysh&count_private=true&show_icons=true&theme=dracula)
 <!--
 **Blueysh/Blueysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -16,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
