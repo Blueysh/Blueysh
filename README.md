@@ -4,9 +4,9 @@
 
 ⚡ I am a coder, designer, and I'm interested in music and gaming.
   
-🔭 I’m currently working on Minecraft mods and plugins at [Pixeled](https://github.com/pixeledgg).
+🔭 I’m currently working on Minecraft mods and plugins at [`Pixeled`](https://github.com/pixeledteam).
   
-📫 How to reach me: [ayo.so/blueysh](https://ayo.so/blueysh)
+📫 How to reach me: [`ayo.so/blueysh`](https://ayo.so/blueysh)
   
 ### Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=Blueysh&count_private=true&show_icons=true&theme=dracula)
