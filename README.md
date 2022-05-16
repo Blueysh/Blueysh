@@ -2,24 +2,17 @@
 
 ### ✌ Hi, I'm Blueysh!
 
-⚡ I am a coder, designer, and I'm interested in music and gaming.
+⚡ **I am a coder, designer, and I'm interested in music and gaming.**
   
-🔭 I’m currently working on Minecraft mods and plugins at [`Pixeled`](https://github.com/pixeledteam).
+🔭 **I’m currently working on Minecraft mods and plugins at [`Pixeled`](https://github.com/pixeledteam).**
   
-📫 How to reach me: [`ayo.so/blueysh`](https://ayo.so/blueysh)
+📫 **How to reach me: [`ayo.so/blueysh`](https://ayo.so/blueysh)**
+  
+💡 **What I can do**
+  
+[![My Skills](https://skillicons.dev/icons?i=java,github,discord,blender)](https://skillicons.dev)
   
 ### Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Blueysh&count_private=true&show_icons=true&theme=dracula)
-<!--
-**Blueysh/Blueysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Blueysh&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blueysh&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </div>
