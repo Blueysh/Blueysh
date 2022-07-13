@@ -2,13 +2,13 @@
 
 ### ✌ Hi, I'm Blueysh!
 
-⚡ **I am a coder, designer, and I'm interested in music and gaming.**
+**I am a coder, designer, and I'm interested in music and gaming.**
   
-🔭 **I’m currently working on Minecraft mods and plugins at [`Pixeled`](https://github.com/pixeledteam).**
+**I’m currently working on Minecraft mods and plugins at [`Pixeled`](https://github.com/pixeledteam).**
   
-📫 **How to reach me: [`ayo.so/blueysh`](https://ayo.so/blueysh)**
+**How to reach me: [`ayo.so/blueysh`](https://ayo.so/blueysh)**
   
-💡 **What I can do**
+**What I can do**
   
 [![My Skills](https://skillicons.dev/icons?i=java,github,discord,blender)](https://skillicons.dev)
   
