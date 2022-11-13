@@ -4,7 +4,7 @@
 
 **I'm a musician and gamer, but I code a line or two from time to time.**
 
-_If you need me, add me on discord. **itstotallyjan#4631**_
+_If you need me, add me on discord. **itstotallyjan#0001**_
 
 **What I've worked in**
   
