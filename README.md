@@ -1,18 +1,6 @@
-<div align="center">
+![hero](https://user-images.githubusercontent.com/56521463/210157177-4fbb3d56-60c5-4826-94a3-19bc96638188.png)
+---
+[![Discord Presence](https://lanyard.cnrad.dev/api/594576995090956313)](https://blueysh.vercel.app)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=Blueysh&theme=dark&hide_border=true&bg_color=191c1f&disable_animations=true&card_width=400&border_radius=8)](https://blueysh.vercel.app)
 
-### ✌ Hi, I'm Jan!
-
-**I'm a musician and gamer, but I code a line or two from time to time.**
-
-_If you need me, add me on discord. **itstotallyjan#0001**_
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Blueysh&label=Profile%20views&color=0e75b6&style=flat-square" alt="veiws" /> </p>
-
-**What I've worked in**
-  
-[![My Skills](https://skillicons.dev/icons?i=java,github)](https://skillicons.dev)
-  
-### Stats
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Blueysh&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blueysh&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</div>
+[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/blueysh&bgLeft=444444&bgRight=575fff&label=Hits)](https://hits-app.vercel.app/)
