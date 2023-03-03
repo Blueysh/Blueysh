@@ -1,7 +1,7 @@
 ## Hey. 👋
 My name is Jan, and I'm mainly a backend developer in Java, sometimes working with JavaScript and TypeScript as well.
 
-Right now, I'm working on [discord.jar](https://github.com/discord-jar/discord.jar) and [Placard](https://github.com/placardapp/placard).
+Right now, I'm working on [discord.jar](https://github.com/discord-jar) and [Placard](https://github.com/placardapp).
 
 Other than that, I'm also a musician who plays keys.
 
