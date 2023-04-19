@@ -11,6 +11,6 @@ Other than that, I'm also a musician who plays keys.
 
 ⚡️ [Contact on Discord](https://blueysh.me/discord)
 
-✉️ [Contact via Email](mailto:jan.santi@icloud.com)
+✉️ [Contact via Email](mailto:hi@blueysh.me)
 
 [![Hits](https://hits-app.vercel.app/hits?url=https://github.com/blueysh&bgLeft=444444&bgRight=575fff&label=Hits)](https://hits-app.vercel.app/)
