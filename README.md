@@ -25,5 +25,7 @@ Other than that, I'm also a musician who plays keys, and I love music (though th
 
 ✉️ [**Contact via Email**](mailto:hi@blueysh.me)
 
+🐦 [**Twitter Profile**](https://twitter.com/blueysh_)
+
 
 [![Hits](https://hits-app.vercel.app/hits?url=https://github.com/blueysh&bgLeft=444444&bgRight=575fff&label=Hits)](https://hits-app.vercel.app/)
