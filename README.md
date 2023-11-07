@@ -1,16 +1,29 @@
-## Hey. 👋
-My name is Jan, and I'm mainly a backend developer in Java, sometimes working with JavaScript and TypeScript as well.
+### Hey. 👋
+My name is **Jan**, and I'm mainly a backend developer in Java with 3+ years of experience. I do a bit of work with JavaScript and TypeScript as well.
 
-Right now, I'm working on [discord.jar](https://github.com/discord-jar).
+Right now, I'm working at [**Candor Studios**](https://discord.gg/candorstudios) as a freelance developer, providing Minecraft Plugin Development and Discord Bot Development.
 
-Other than that, I'm also a musician who plays keys.
+### I've got experience with...
+- **Java**: 3+ years
+- **Minecraft Development (Java)**: 3+ years
+- **Discord API**: 1 year
+- **JavaScript / TypeScript**: 1 year
+- **Python**: Less than 1 year
 
-## Find Me
+### I've contributed to...
+- The [**discord.jar project**](https://github.com/discord-jar/discord.jar)
+- The [**Skyscape project**](https://github.com/Skyscape-SP)
+- Other private projects
 
-🔗 [Personal Portfolio](https://blueysh.me)
+Other than that, I'm also a musician who plays keys, and I love music (though that's probably a given)!
 
-⚡️ [Contact on Discord](https://blueysh.me/discord)
+### Come say hi!
 
-✉️ [Contact via Email](mailto:hi@blueysh.me)
+🔗 [**Personal Website**](https://blueysh.me)
+
+⚡️ [**Contact on Discord**](https://blueysh.me/discord)
+
+✉️ [**Contact via Email**](mailto:hi@blueysh.me)
+
 
 [![Hits](https://hits-app.vercel.app/hits?url=https://github.com/blueysh&bgLeft=444444&bgRight=575fff&label=Hits)](https://hits-app.vercel.app/)
