@@ -8,16 +8,10 @@ Right now, I'm working at [**Candor Studios**](https://discord.gg/candorstudios)
 - **Minecraft Development (Java)**: 3+ years
 - **Discord API**: 1 year
 - **JavaScript / TypeScript**: 1 year
-- **Python**: Less than 1 year
-
-### I've contributed to...
-- The [**discord.jar project**](https://github.com/discord-jar/discord.jar)
-- The [**Skyscape project**](https://github.com/Skyscape-SP)
-- Other private projects
 
 Other than that, I'm also a musician who plays keys, and I love music (though that's probably a given)!
 
-### Come say hi!
+### Say hi!
 
 🔗 [**Personal Website**](https://blueysh.me)
 
@@ -26,6 +20,3 @@ Other than that, I'm also a musician who plays keys, and I love music (though th
 ✉️ [**Contact via Email**](mailto:hi@blueysh.me)
 
 🐦 [**Twitter Profile**](https://twitter.com/blueysh_)
-
-
-[![Hits](https://hits-app.vercel.app/hits?url=https://github.com/blueysh&bgLeft=444444&bgRight=575fff&label=Hits)](https://hits-app.vercel.app/)
